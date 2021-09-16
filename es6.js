@@ -27,5 +27,6 @@ console.log(newNumbers);
 console.log(numbers);
 
 // create a new array from an older array and add an element
+const numbers = [89, 35, 98, 12];
 const currentNumbers = [...numbers, 55];
 console.log(currentNumbers);
